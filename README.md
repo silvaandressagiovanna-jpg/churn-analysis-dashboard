@@ -22,7 +22,9 @@ A base utilizada contém informações como:
 - Tempo sem acompanhamento
 - Quantidade de usuários ativos
 - Quantidade de usuários contratados
-Observação: Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
+
+## 🔒 Observação
+Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
 
 ---
 
