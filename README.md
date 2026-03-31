@@ -49,9 +49,11 @@ Este dashboard permite:
 
 ---
 
-## 📂 Dados
-Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
-
 ## 📸 Dashboard
 
 ![Visão geral do dashboard de churn](dashboard.png)
+
+---
+
+## 📂 Dados
+Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
