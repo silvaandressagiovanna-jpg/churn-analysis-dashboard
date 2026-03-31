@@ -33,9 +33,8 @@ A base utilizada contém informações como:
 ---
 
 ## 📈 Principais insights
-- Parte relevante do risco está concentrada em poucos clientes de maior MRR  
--<img width="581" height="695" alt="Dashboard análise dos clientes" src="https://github.com/user-attachments/assets/c87333b0-60ce-4a9f-bb0b-25e80d3a3ebe" />
- Clientes com maior tempo sem acompanhamento apresentam maior propensão ao churn  
+- Parte relevante do risco está concentrada em poucos clientes de maior MRR
+- Clientes com maior tempo sem acompanhamento apresentam maior propensão ao churn  
 - Existem picos de churn previstos em determinados meses, indicando necessidade de ação preventiva  
 
 ---
