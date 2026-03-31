@@ -22,6 +22,7 @@ A base utilizada contém informações como:
 - Tempo sem acompanhamento
 - Quantidade de usuários ativos
 - Quantidade de usuários contratados
+Observação: Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
 
 ---
 
@@ -52,8 +53,3 @@ Este dashboard permite:
 ## 📸 Dashboard
 
 ![Visão geral do dashboard de churn](dashboard.png)
-
----
-
-## 📂 Dados
-Os dados utilizados neste projeto foram anonimizados para garantir a confidencialidade das informações.
