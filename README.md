@@ -15,11 +15,13 @@ Desenvolver um dashboard para monitorar a saúde da carteira de clientes, identi
 ## 📂 Dados
 A base utilizada contém informações como:
 - Nome do cliente
+- ID do cliente
 - MRR (receita recorrente mensal)
 - Status de saúde do cliente
 - Próxima data de renovação
 - Tempo sem acompanhamento
 - Quantidade de usuários ativos
+- Quantidade de usuários contratados
 
 ---
 
